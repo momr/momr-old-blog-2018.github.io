@@ -4,9 +4,9 @@
   <subtitle>I build Software</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="/"/>
+  <link href="https://momr.github.io/"/>
   <updated>2018-02-17T03:16:48.941Z</updated>
-  <id>/</id>
+  <id>https://momr.github.io/</id>
   
   <author>
     <name>Medhat Omr</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Programming Land VISA Application</title>
-    <link href="/2017/06/04/hello-world/"/>
-    <id>/2017/06/04/hello-world/</id>
+    <link href="https://momr.github.io/2017/06/04/hello-world/"/>
+    <id>https://momr.github.io/2017/06/04/hello-world/</id>
     <published>2017-06-04T16:11:13.000Z</published>
     <updated>2018-02-17T03:16:48.941Z</updated>
     
