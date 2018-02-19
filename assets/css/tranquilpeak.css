@@ -652,7 +652,7 @@ blockquote {
   #sidebar .sidebar-container {
     overflow: auto; }
   #sidebar .sidebar-profile {
-    color: #f8f8f8;
+    color: #ebebeb;
     text-align: center;
     padding-top: 18px;
     margin-bottom: 15px; }
@@ -661,7 +661,7 @@ blockquote {
       margin: 0 auto; }
     #sidebar .sidebar-profile .sidebar-profile-name {
       font-size: 1.1em;
-      color: #f8f8f8; }
+      color: #ebebeb; }
   #sidebar ul.sidebar-buttons {
     padding: 0;
     margin: 0 0 20px 0; }
@@ -671,7 +671,7 @@ blockquote {
       height: 45px;
       line-height: 45px; }
       #sidebar ul.sidebar-buttons li.sidebar-button .sidebar-button-link {
-        color: #f8f8f8;
+        color: #ebebeb;
         display: block;
         height: 100%; }
         #sidebar ul.sidebar-buttons li.sidebar-button .sidebar-button-link:hover, #sidebar ul.sidebar-buttons li.sidebar-button .sidebar-button-link:active {
@@ -1036,7 +1036,7 @@ blockquote {
       #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-location {
         font-weight: 400;
         font-size: 1.6rem;
-        color: #f8f8f8; }
+        color: #ebebeb; }
       #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-job,
       #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-location {
         margin-top: 0;
@@ -1179,7 +1179,7 @@ blockquote {
       #sidebar[data-behavior="4"] .sidebar-profile .sidebar-profile-location {
         font-weight: 400;
         font-size: 1.6rem;
-        color: #f8f8f8; }
+        color: #ebebeb; }
       #sidebar[data-behavior="4"] .sidebar-profile .sidebar-profile-job,
       #sidebar[data-behavior="4"] .sidebar-profile .sidebar-profile-location {
         margin-top: 0;
@@ -1533,6 +1533,29 @@ figure.highlight,
   font-family: Menlo, Consolas, monospace;
   font-size: 1em;
   margin: 0 0 5px 0; }
+
+.fancybox-caption-wrap {
+  padding: 0;
+  background: transparent; }
+  .fancybox-caption-wrap .fancybox-caption {
+    text-align: center;
+    border: none; }
+
+.fancybox-thumbs {
+  top: auto;
+  width: auto;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 95px;
+  padding: 10px 10px 5px 10px;
+  box-sizing: border-box;
+  opacity: 1;
+  background: transparent; }
+
+.fancybox-show-thumbs .fancybox-inner {
+  right: 0;
+  bottom: 95px; }
 
 .figure.clear {
   clear: both; }
