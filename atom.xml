@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://momr.github.io/"/>
-  <updated>2018-02-19T00:36:00.427Z</updated>
+  <updated>2018-02-19T16:15:05.090Z</updated>
   <id>https://momr.github.io/</id>
   
   <author>
@@ -14,6 +14,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>A Year in Review</title>
+    <link href="https://momr.github.io/2018/02/18/a-year-in-review/"/>
+    <id>https://momr.github.io/2018/02/18/a-year-in-review/</id>
+    <published>2018-02-19T05:26:09.000Z</published>
+    <updated>2018-02-19T16:15:05.090Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2018/02/18/a-year-in-review/2017-collection.png" alt="My 2017 image" title="My 2017 image">
+<h2 id="1-p-eng"><a class="markdownIt-Anchor" href="#1-p-eng"></a> 1. P. Eng.</h2>
+<p>I never imagined I would be that happy after recieving the email stating my achievement of my professional designation!</p>
+<blockquote>
+<p>Dear Dr. Omr,<br>
+I am pleased to inform you that your application for registration as a Professional Engineer has been approved and your name has been entered in our membership records. Congratulations on achieving your professional designation!</p>
+</blockquote>
+<h2 id="2-inventor"><a class="markdownIt-Anchor" href="#2-inventor"></a> 2. Inventor</h2>
+<p>I have now 1 issued patent!</p>
+<img src="/2018/02/18/a-year-in-review/patent.png" alt="My patent image" title="My patent image">
+<h2 id="3-staff-engineer"><a class="markdownIt-Anchor" href="#3-staff-engineer"></a> 3. Staff Engineer</h2>
+<p>I became Staff Software Algorithm Designer (Staff Algorithm Engineer)</p>
+<img src="/2018/02/18/a-year-in-review/staff_eng.png" alt="My staff_eng image" title="My staff_eng image">
+<h2 id="4-self-driving-car-engineer"><a class="markdownIt-Anchor" href="#4-self-driving-car-engineer"></a> 4. Self-Driving Car Engineer</h2>
+<p>Last but not least, getting my Self-Driving Engineer Nanodegree Certificate</p>
+<img src="/2018/02/18/a-year-in-review/nd013.png" alt="My Nanodegree Certificate image" title="My Nanodegree Certificate image">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2018/02/18/a-year-in-review/2017-collection.png&quot; alt=&quot;My 2017 image&quot; title=&quot;My 2017 image&quot;&gt;
+&lt;h2 id=&quot;1-p-eng&quot;&gt;&lt;a class=&quot;markdownIt
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Programming Land VISA Application</title>
